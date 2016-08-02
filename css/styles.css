@@ -1,0 +1,46 @@
+
+body {
+background-color: #5d6a8a;
+}
+
+h1 {
+text-align: center;
+color: #63a6af;
+font-family: 'Fjalla One', sans-serif;
+font-weight: bold;
+font-size: 4em;
+}
+
+#container {
+width: 960px;
+height: 960px;
+background-color: #9debe9;
+margin: auto;
+padding: none;
+border-style: none;
+}
+
+.unit {
+height: 60px;
+width: 60px;
+margin: 0px;
+background-color: #9debe9;
+float: left;
+}
+
+#clear {
+width: 125.75px;
+height: 36px;
+margin: auto;
+text-align: center;
+}
+
+#button {
+width: 126px;
+height: 36px;
+margin:auto;
+}
+
+.highlight {
+background-color: #492f4c;
+}
